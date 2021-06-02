@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**nicolasaus/nicolasaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About ME 💬:
+I am a 17 year old rookie developer and computer science enthusiast from Australia.
 
-Here are some ideas to get you started:
+Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Algorithmics
+- Data Structures
+- Python
+- C++
+- AutoHotKey
+
+
+### Contact Me:
+If you would like to reach out to me please contact me via discord - Nick#0820 ^_^
