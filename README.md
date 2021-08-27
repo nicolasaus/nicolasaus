@@ -12,4 +12,4 @@ Learning:
 
 
 ### Contact Me:
-If you would like to reach out to me please contact me via discord - Nick#0820 ^_^
+If you would like to reach out to me please email me @ pedisnicolas@gmail.com or contact me via discord - Nick#0820 ^_^
