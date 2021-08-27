@@ -5,8 +5,7 @@ I am a 17 year old rookie developer and computer science enthusiast from Austral
 
 Learning:
 
-- Algorithmics
-- Data Structures
+- Algorithmics and Data Structures
 - Python
 - C++
 - AutoHotKey
