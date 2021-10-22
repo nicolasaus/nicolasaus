@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About ME 💬:
-I am a 17 year old rookie developer and computer science enthusiast from Australia.
+I am a 17 year old rookie developer and computer science enthusiast from Melbourne, Australia.
 
 Learning:
 
